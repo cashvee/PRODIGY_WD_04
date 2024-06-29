@@ -3,7 +3,9 @@ For "TASK 4" in my summer internship, I built a Weather-App that fetches weather
 This task was probably by far the most intense one and I certainly got to learn a lot. 
 
 For the weather API data I used: https://lnkd.in/d2D4ByzC
+
 Source Code Editor: VS Code 
+
 HTML, CSS, JavaScript incorporated. 
  
 I have included a screenshot of the project as well.
